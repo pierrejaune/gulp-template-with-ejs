@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+p{
+  font-size: 30px;
+}
+
+.title{
+  font-size: 100px;
+  font-style: italic;
+  color: black;
+  text-transform: uppercase;
+  position: sticky;
+}
